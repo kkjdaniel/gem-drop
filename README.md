@@ -1,4 +1,4 @@
-![Game Logo](https://github.com/kkjdaniel/gem-drop/blob/master/src/assets/img/logo.png?raw=true | width=100)
+<img src="https://github.com/kkjdaniel/gem-drop/blob/master/src/assets/img/logo.png?raw=true" alt="Game Logo" style="width: 200px;"/>
 
 HTML5 Puzzle Game, inspired by 'Dr. Mario' - built as a part of a final-year project, utilising Phaser.js and PHP for online highscores. Included in the repository is the full source-code and all accompanying assets.
 
